@@ -1,0 +1,22 @@
+# 敏感信息
+.env
+*.key
+
+# Python 相关
+__pycache__/
+venv/
+.venv
+*.py[cod]
+
+# Node.js 相关
+node_modules/
+npm-debug.log*
+
+# 操作系统相关
+.DS_Store
+Thumbs.db
+
+# 项目特定缓存
+uploads/
+cache/
+Backend/temp/
